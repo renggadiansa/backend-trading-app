@@ -1,0 +1,52 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "action": "BUY",
+    "price_entry": "106697.00",
+    "tp_price": "108830.94",
+    "sl_price": "105630.03",
+    "leverage": "5x",
+    "timeframe": "5m",
+    "timestamp": "2025-06-27T08:29:44.937Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "BUY",
+    "price_entry": "106776.30",
+    "tp_price": "108911.83",
+    "sl_price": "105708.54",
+    "leverage": "10x",
+    "timeframe": "5m",
+    "timestamp": "2025-06-27T08:39:58.479Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "BUY",
+    "price_entry": "107006.00",
+    "tp_price": "109146.12",
+    "sl_price": "105935.94",
+    "leverage": "10x",
+    "timeframe": "5m",
+    "timestamp": "2025-06-27T08:47:31.747Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "BUY",
+    "price_entry": "106975.70",
+    "tp_price": "109115.21",
+    "sl_price": "105905.94",
+    "leverage": "5x",
+    "timeframe": "5m",
+    "timestamp": "2025-06-27T08:48:14.523Z"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "action": "SELL",
+    "price_entry": "106975.90",
+    "tp_price": "104836.38",
+    "sl_price": "108045.66",
+    "leverage": "10x",
+    "timeframe": "5m",
+    "timestamp": "2025-06-27T08:51:12.549Z"
+  }
+]
